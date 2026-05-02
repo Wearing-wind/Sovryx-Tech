@@ -489,6 +489,7 @@ section { padding: 90px 0; }
   background: linear-gradient(135deg, var(--blue), var(--dark));
   padding: 28px 36px;
   display: flex; align-items: center; gap: 16px;
+  border-radius: 50px 50px 50px 50px; 0;
 }
 
 .form-header-icon {

@@ -350,17 +350,17 @@ section { padding: 90px 0; }
   background: rgba(255,255,255,0.05);
 }
 .course-card-icon { font-size: 40px; margin-bottom: 14px; display: block; }
-.course-card-header h3 {
-  color: var(--dark);
+..course-card-header h3 {
+  color: white;
   font-size: 20px;
   font-weight: 800;
   margin-bottom: 6px;
-  text-shadow: 0 1px 2px rgba(255,255,255,0.8);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.35);
 }
 .course-card-header p {
-  color: var(--gray);
+  color: rgba(255,255,255,0.8);
   font-size: 13px;
-  text-shadow: 0 1px 2px rgba(255,255,255,0.6);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.25);
 }
 .course-card-header .card-badge { margin-left: 0; margin-top: 12px; display: inline-block; }
 
